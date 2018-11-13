@@ -1,0 +1,46 @@
+body {
+  padding-top: 50px;
+}
+
+div.frame {
+	margin-top: 15px;
+	border: 2px black solid;
+	padding: 20px;
+}
+
+div.frame h1 {
+	margin: 0 0 10px 0;
+	font-size: 120%;
+}
+
+div.frame h2 {
+	margin: 0 0 10px 0;
+	font-size: 115%;
+}
+
+label.disabled {
+	color: #aaa;
+}
+
+.pergunta {
+	position: relative;
+	width: 400px;
+	height: 100px;
+	background-color: white;
+	padding: 10px;
+	border: 2px solid #3498db;
+	left: 50%;
+	top: 50%;
+	margin-top: -200px;
+	margin-left: -200px;
+}
+
+.msg{
+	position: absolute;
+	top:0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	background-color: rgba(0,0,0,.5);
+	text-align: center;
+}
