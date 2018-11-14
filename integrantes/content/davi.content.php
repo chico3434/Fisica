@@ -1,4 +1,4 @@
-<div class="container mt-2">
+<div class="container mt-2 mb-4">
   <div class="row justify-content-center align-items-center">
     <h1>Trajeto - Davi Sousa Fernandes</h1>
   </div>  
@@ -13,6 +13,6 @@
       Total: 30,71km <br>
       Tempo: 1h20min
   </div>
-  <img src="../fotos/davi.png" class="shadow rounded mx-auto d-block border border-secondary" alt="Foto trajeto do Davi">
+  <img src="../fotos/davi.png" class="shadow rounded mx-auto d-block border border-secondary mb-4" alt="Foto trajeto do Davi">
   <img src="../fotos/daviT.png" class="shadow rounded mx-auto d-block border border-secondary" alt="Foto trajeto do Davi">
 </div>
