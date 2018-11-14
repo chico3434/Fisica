@@ -1,4 +1,4 @@
-<div class="container mt-2">
+<div class="container mt-2 mb-4">
   <div class="row justify-content-center align-items-center">
     <h1>Trajeto - Mateus Luiz Bispo</h1>
   </div>  
@@ -12,5 +12,6 @@
       Total: 07,63km <br>
       Tempo: 25min
   </div>
-  <img src="../fotos/mateus.png" class="shadow rounded mx-auto d-block border border-secondary" alt="Foto trajeto do Bispo">
+  <img src="../fotos/mateus.jpg" class="shadow rounded mx-auto d-block border border-secondary mb-4" alt="Foto trajeto do Bispo">
+  <img src="../fotos/mateus2.jpg" class="shadow rounded mx-auto d-block border border-secondary" alt="Foto trajeto do Bispo">
 </div>
