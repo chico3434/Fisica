@@ -1,36 +1,28 @@
-<h1>Trajeto - Henrique Campos Küster</h1>
+<div class="container mt-2">
+  <div class="row justify-content-center align-items-center">
+    <h1>Trajeto - Henrique Campos Küster</h1>
+  </div>  
+  <div class="row justify-content-center align-items-center">
+    <h2 class="text-primary">Trajeto de Metrô</h2>
+  </div>
+  <div class="row justify-content-center align-items-center">  
+    <p class="text-secondary">
+      A pé: 0,90km <br>
+      Metrô: 05,80km <br>
+      Total: 06,70km <br>
+      Tempo: 50min    
+  </div>
+  <img src="../fotos/henrique.png" class="shadow rounded mx-auto d-block border border-secondary" alt="Foto trajeto do Henrique">
+  <div class="row justify-content-center align-items-center">
+    <h2 class="text-primary mt-3">Trajeto de Ônibus</h2>
+  </div>
+  <div class="row justify-content-center align-items-center">  
+    <p class="text-secondary">
+      A pé: 0,90km <br>
+      Ônibus: 05,75km <br>
+      Total: 06,65km <br>
+      Tempo: 50min    
+  </div>
+</div>
 
-<br><br>
-<ul class="list-group">
-  <li class="list-group-item active">Metrô</li>
-</ul><br><br>
-<center><img src="../../fotos/henrique.png" alt="Trajeto-Henrique" title="Trajeto-Henrique"></center>
 
-<p align="justify" class="text-secondary">
-	Distância Casa-Cefet: 5,80km<br>
-	Distâcia total: aproximadamente 12,45km<br>
-	Tempo total: 1h20min.
-</p>
-
-<style>
-  h1{
-    margin-top: 50px;
-    text-align: center;
-  }
-  img{
-  	margin-top: 30px;
-  	width: 80%;
-  	height: 80%;
-  }
-  ul{
-  	width: 20%;
-  	text-align: center;
-  }
-  li{
-  	font-size: 20px;
-  }
-  p{
-  	margin-top: 50px;
-  	font-size: 30px;
-  }
-</style>

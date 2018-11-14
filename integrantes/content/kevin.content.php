@@ -1,48 +1,27 @@
-<h1>Trajeto - Kevin Sena de Andrade</h1>
-
-<br><br>
-<ul class="list-group">
-  <li class="list-group-item active">Metrô</li>
-</ul><br><br>
-<center><img src="../../fotos/kevin.png" alt="Trajeto-Kevin-Metrô" title="Trajeto-Kevin-Metrô"></center>
-
-<p align="justify" class="text-secondary">
-	Distância Casa-Cefet: 20,55km<br>
-	Distâcia total: aproximadamente 21,55km<br>
-	Tempo total: 1h20min.
-</p>
-
-<br><br>
-<ul class="list-group">
-  <li class="list-group-item active">Ônibus</li>
-</ul><br><br>
-<center><img src="../../fotos/kevinO.png" alt="Trajeto-Kevin-Õnibus" title="Trajeto-Kevin-Õnibus"></center>
-
-<p class="text-secondary" align="justify">
-  Distância Casa-Cefet: 16,52km<br>
-  Distâcia total: aproximadamente 17,12km<br>
-  Tempo total: 1h20min.
-</p>
-
-<style>
-  h1{
-    margin-top: 50px;
-    text-align: center;
-  }
-  img{
-  	margin-top: 30px;
-  	width: 80%;
-  	height: 80%;
-  }
-  ul{
-  	width: 20%;
-  	text-align: center;
-  }
-  li{
-  	font-size: 20px;
-  }
-  p{
-  	margin-top: 50px;
-  	font-size: 30px;
-  }
-</style>
+<div class="container mt-2">
+  <div class="row justify-content-center align-items-center">
+    <h1>Trajeto - Kevin Sena de Andrade</h1>
+  </div>  
+  <div class="row justify-content-center align-items-center">
+    <h2 class="text-primary">Trajeto de Metrô</h2>
+  </div>
+  <div class="row justify-content-center align-items-center">  
+    <p class="text-secondary">
+      A pé: 01,00km <br>
+      Metrô: 20,55km <br>
+      Total: 21,55km <br>
+      Tempo: 1h20min 
+  </div>
+  <img src="../fotos/kevin.png" class="shadow rounded mx-auto d-block border border-secondary" alt="Foto trajeto do Kevin">
+  <div class="row justify-content-center align-items-center">
+    <h2 class="text-primary mt-3">Trajeto de Ônibus</h2>
+  </div>
+  <div class="row justify-content-center align-items-center">  
+    <p class="text-secondary">
+      A pé: 0,60km <br>
+      Ônibus: 16,52Km <br>
+      Total: 17,12km <br>
+      Tempo: 1h20min 
+  </div>
+  <img src="../fotos/kevinO.png" class="shadow rounded mx-auto d-block border border-secondary" alt="Foto trajeto do Kevin">
+</div>
