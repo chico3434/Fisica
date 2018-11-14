@@ -1,4 +1,4 @@
-<div class="container mt-2 mb-2">
+<div class="container mt-2 mb-4">
   <div class="row justify-content-center align-items-center">
     <h1>Trajeto - Francisco Rubens Karkow do Amaral</h1>
   </div>  
@@ -23,6 +23,6 @@
       Total: 21,83Km<br>
       Tempo: 1h10min
   </div>
-  <img src="../fotos/321.png" class="shadow rounded mx-auto d-block border border-secondary" alt="Foto trajeto do Francisco">
+  <img src="../fotos/321.png" class="shadow rounded mx-auto d-block border border-secondary mb-4" alt="Foto trajeto do Francisco">
   <img src="../fotos/455.png" class="shadow rounded mx-auto d-block border border-secondary" alt="Foto trajeto do Francisco">
 </div>
